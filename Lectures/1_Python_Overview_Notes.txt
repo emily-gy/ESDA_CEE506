@@ -1,0 +1,6 @@
+Comparison between lists, tuples, sets, and dictionaries
+1. List: ordered, mutable | []
+2. Tuple: ordered, immutable | ()
+3. Set: unordered, unique elements, mutable | {}
+4. Dictionary: key-value paris, mutable | {} with :
+5. Strings: sequence of characters (immutable) 
